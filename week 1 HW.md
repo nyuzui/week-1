@@ -1,3 +1,4 @@
+
 ##Was the backend or frontend responsible for the bug in the video?
    Frontend   
 ##What languages do you see in this video? List ALL of them. If you're not sure what the language is, but you know there's an additional one, indicate that.
@@ -31,7 +32,7 @@
 ##What tools and approaches used in the video do you think help in quality control / quality assurance?
   im not sure
 ##What are 5 syntaxes / pieces of code shown you DO recognize (could be of any scale or size), time stamp (link) or screenshot it and list what they are them. (screen shots can be drag and dropped into the comment area below your gist)
-  9:48 
+=
 ##What are 5 syntaxes / pieces of code shown you DON'T recognize, time stamp (link) or screenshot it and list what they are them. (screen shots can be drag and dropped into the comment area below your gist)
   44:54
 ##You just wrote responses to these questions in Markdown. What even is that? (insert meme here :p). What is Markdown and how is it similar, different, or related to HTML?
